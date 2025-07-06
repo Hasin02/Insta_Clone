@@ -68,3 +68,53 @@ cd Insta_Clone
 
 # 3. Install dependencies
 npm install
+---
+
+### 🖥️ Usage
+
+To run the project locally:
+
+```bash
+npm start
+```
+
+Frontend: http://localhost:3000  
+Backend: http://localhost:5000
+
+---
+
+### 🧪 Testing
+
+To run tests:
+
+```bash
+npm test
+```
+
+---
+
+## 🧩 Features
+
+- User registration/login (JWT)
+- Profile editing
+- Post creation and image uploads
+- Comments and likes
+- Follow/unfollow users
+- Feed and explore page
+- Responsive UI
+
+---
+
+## 🗂️ Project Structure
+
+```
+Insta_Clone/
+├── client/              # React frontend
+│   └── ...
+├── server/              # Express backend
+│   └── ...
+├── .env                 # Environment config
+├── README.md
+```
+
+---
